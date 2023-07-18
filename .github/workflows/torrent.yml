@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
+  name: "villager turl"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  url: "https://pixeldrain.com/api/file/cNxEj9EQ?download"
+  file_name: "villager.zip"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
